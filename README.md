@@ -1,16 +1,37 @@
-## Hi there 👋
+# Afeez Adebayo
 
-<!--
-**afeezadebayo/afeezadebayo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Marketing, SEO & Growth Strategist | Marketing Systems | AI-Powered Marketing Workflows**
 
-Here are some ideas to get you started:
+I build practical marketing systems that help businesses improve discoverability, acquire customers, understand performance, and scale growth.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🌐 **Website:** [afeezadebayo.com](https://afeezadebayo.com)  
+💼 **LinkedIn:** [Afeez Adebayo](https://www.linkedin.com/in/afeez-adebayo/)  
+🐦 **X:** [@za_icon](https://x.com/za_icon)
+
+## About Me
+
+My work spans search engine optimisation, performance marketing, growth strategy, lifecycle marketing, analytics, and the application of AI to repeatable marketing workflows.
+
+This GitHub profile is a home for practical marketing resources, reusable frameworks, and structured skills designed to help AI assistants and marketing teams execute work more consistently.
+
+## Areas of Focus
+
+- **Technical SEO:** Crawling, indexation, site architecture, structured data, and site migrations
+- **AEO & GEO:** Answer engine optimisation, generative engine visibility, entity optimisation, and AI search measurement
+- **Performance Marketing:** Paid media, conversion tracking, creative testing, and attribution
+- **Growth Marketing:** Experimentation, acquisition, funnels, retention, and growth models
+- **CRM & Lifecycle Marketing:** Segmentation, automation, activation, retention, and re-engagement
+- **Product Marketing:** Positioning, messaging, customer research, and go-to-market strategy
+- **Marketing Analytics:** Measurement frameworks, reporting, and decision support
+
+## Featured Project
+
+### Marketing Skills for AI Agents
+
+A collection of structured `SKILL.md` resources designed to help AI agents perform marketing tasks with clearer workflows, useful inputs, quality checks, and actionable outputs.
+
+Explore the collection: [Marketing Skills](https://afeezadebayo.com/skills-md/marketing/)
+
+## Connect
+
+For my work, experience, and other resources, visit [afeezadebayo.com](https://afeezadebayo.com).
