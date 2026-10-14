@@ -1,6 +1,6 @@
 # Afeez Adebayo
 
-**Marketing, SEO & Growth Strategist | Marketing Systems | AI-Powered Marketing Workflows**
+**Marketing, SEO & Growth Expert | Marketing Systems | AI-Powered Marketing Workflows**
 
 I build practical marketing systems that help businesses improve discoverability, acquire customers, understand performance, and scale growth.
 
